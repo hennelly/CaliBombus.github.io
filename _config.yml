@@ -25,7 +25,7 @@ navbar-links:
     - Williams Lab: "http://williamslab.ucdavis.edu"
   
 
-avatar: "/img/me_photo_2.png"
+avatar: "/img/beephoto_sqaure.png"
 
 # --- Background colour/image options --- #
 
@@ -62,7 +62,7 @@ share-links-active:
   linkedin: true
 
 # How to display the link to the website in the footer
-url-pretty: "JohnMola.com"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "CaliBombus.com"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Misc --- #
 
