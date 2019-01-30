@@ -18,7 +18,7 @@ description: A resource for California bumble bee monitoring and education!
 navbar-links:
   Home: ""
   About: "info"
-  Resources: "resource"
+#  Resources: "resource"
   Workshops: "events"
   More:
     - Woodard Lab: "http://woodardlab.com"
