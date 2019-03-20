@@ -14,4 +14,4 @@ css: "/css/index.css"
 
 Our effort seeks to build an educational and monitoring platform to conserve California bumble bees. 
 
-More information coming soon. For now, check out our upcoming [workshops!](events)
+More information coming soon.

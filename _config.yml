@@ -29,7 +29,7 @@ avatar: "/img/beephoto_sqaure.png"
 
 # --- Background colour/image options --- #
 
-navbar-col: "gold" 
+navbar-col: "white" 
 # navbar-img: "/img/bgimage.png"
 # footer-col: "blue"
 # footer-img: "/img/bgimage.png"
@@ -40,7 +40,7 @@ navbar-col: "gold"
 
 # Change all these values or delete the ones you don't want.
 author:
-  name: John M. Mola
+  name: CaliBombus
   email: "CaliBombus@gmail.com"
   #github: John-Mola    # eg. daattali
   #twitter: _JohnMola
